@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-This is fine.
+This is fine. lol
 
 ![poptocat](https://octodex.github.com/images/poptocat.png)
 {: .center}
