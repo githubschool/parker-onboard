@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: oct 22 - 24, 2019
-- Facilitator: @beardofedu
+- Facilitator: @beardofedu and @dgpeach
 
 ## Talk to Us!!
 
